@@ -1,4 +1,4 @@
-## CS Study
+# CS Study
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/98a83d10-89cb-48e2-b793-be56dd3650a3" width="500" alt="CSteroid logo" />
